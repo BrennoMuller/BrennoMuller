@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Brenno%20Muller&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Dados%20%7C%20Power%20BI%20%7C%20Python%20%7C%20SQL%20%7C%20ETL%20%7C%20ML&descAlignY=60&descSize=16" width="100%" alt="Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Brenno%20Muller&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Dados%20%7C%20Power%20BI%20%7C%20Python%20%7C%20SQL%20%7C%20ETL%20%7C%20ML&descAlignY=60&descSize=16" width="100%" alt="Banner"/> 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Transformando+dados+em+decis%C3%B5es;Pipelines+ETL+%7C+Dashboards+%7C+Machine+Learning;Analista+de+Dados+J%C3%BAnior+%40+Sicredi" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Pipelines+ETL+%7C+Dashboards+%7C+Machine+Learning;Analista+de+Dados+J%C3%BAnior+%40+Sicredi" alt="Typing SVG"/>
 
 </div>
 
