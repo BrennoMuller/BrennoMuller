@@ -5,7 +5,7 @@
 
 <img src="./matrix-banner.svg" width="100%" alt="Brenno Muller - Matrix banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00D84A&center=true&vCenter=true&width=700&lines=Wake+up%2C+Neo..." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00D84A&center=true&vCenter=true&width=700&lines=Wake+up%2C..." alt="Typing SVG"/>
 </div>
 
 ---
