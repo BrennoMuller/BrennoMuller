@@ -41,11 +41,10 @@ Trabalho com coleta, limpeza e tratamento de dados, **pipelines ETL**, análise 
 
 ---
 
-## 🧰 Linguagens e ferramentas que já usei
-
+## 🧰 Linguagens e ferramentas
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,postgres,powerbi,pandas,numpy,sklearn,tensorflow,pytorch,docker,git,github,linux,aws,azure,vscode&perline=8" alt="Skills"/>
+<img src="https://skillicons.dev/icons?i=python,postgres,powerbi,sklearn,tensorflow,pytorch,docker,git,github,linux,aws,azure,vscode&perline=8" alt="Skills"/>
 
 </div>
 
