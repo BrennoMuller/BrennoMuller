@@ -5,7 +5,7 @@
 
 <img src="./matrix-banner.svg" width="100%" alt="Brenno Muller - Matrix banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00D84A&center=true&vCenter=true&width=700&lines=Wake+up%2C+Neo...;Transformando+dados+em+decis%C3%B5es;Pipelines+ETL+%7C+Dashboards+%7C+Machine+Learning;Analista+de+Dados+J%C3%BAnior+%40+Sicredi" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00D84A&center=true&vCenter=true&width=700&lines=Wake+up%2C+Neo...;Pipelines+ETL+%7C+Dashboards+%7C+Machine+Learning;Analista+de+Dados+J%C3%BAnior+%40+Sicredi" alt="Typing SVG"/>
 
 </div>
 
